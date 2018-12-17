@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "name":"Potion",
+    "price":300,
+    "property":"Add 20 hp",
+    "sprite": "https://image.flaticon.com/icons/svg/188/188958.svg"
+  },
+  {
+    "id":2,
+    "name":"Super potion",
+    "price":400,
+    "property":"Add 50 hp",
+    "sprite":"https://image.flaticon.com/icons/svg/188/188959.svg"
+  },
+  {
+    "id":3,
+    "name":"Hyper potion",
+    "price":1000,
+    "property":"Restore full life",
+    "sprite":"https://image.flaticon.com/icons/svg/188/188960.svg"
+  }
+]
